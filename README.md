@@ -9,11 +9,11 @@ c# BatchTorrentEdit Tarker Server
 
 使用https://github.com/mono/monotorrent
 
-#界面
+# 界面
 
 ![image](https://user-images.githubusercontent.com/24290190/162515677-bfef906c-d6b5-4fe7-b890-7862bf9f33aa.png)
 
-
+输入新旧Tarker域名 他将替换他们
 
 # BUG
 
