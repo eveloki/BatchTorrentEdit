@@ -3,6 +3,12 @@ c# BatchTorrentEdit Tarker Server
 
 批量修改Torrent种子Tarker服务器的小工具
 
+你需要.Net 6.0 Runtime才能运行他
+
+直接点击https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.3-windows-x64-installer 下载
+
+或者 https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime 自行选择运行环境
+
 
 修改后的Torrent种子文件在原种子文件ChangeTorrent目录下
 
